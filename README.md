@@ -8,7 +8,7 @@ The motivation for doing this project was the opportunity to consolidate what I 
 
 ## Instruction
 
-Go to [landing page](https://dianamukaliyeva.github.io/landing-page/) or clone this repository and open `index.html` with Browser.
+Click [here](https://dianamukaliyeva.github.io/landing-page/) or clone this repository and open `index.html` with Browser.
 
 ## Acknowledgments
 
